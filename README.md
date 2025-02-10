@@ -1,2 +1,2 @@
 # shrvn-demo
-This is a demo for Gitit and Github class.
+This is a demo for Git and Github class...
